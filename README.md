@@ -4,7 +4,7 @@ FoodFlow is a practice frontend project built collaboratively by our team as par
 
 ## Live demo
 
-[View FoodFlow](https://foodflow-kitchen.vercel.app/)
+[View FoodFlow](https://foodflow-kitchen.netlify.app/)
 
 ## Screenshot
 
